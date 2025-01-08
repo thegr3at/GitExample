@@ -50,7 +50,4 @@ def to_do_list():
                     print("Please enter a valid number!")
 
 
-        
-
-
-to_do_list()
+        to_do_list()
